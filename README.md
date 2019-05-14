@@ -1,2 +1,2 @@
 # Python-Programs
-Some python programs when I was learning
+I had written these Python programs while I was learning Machine Learning course.
